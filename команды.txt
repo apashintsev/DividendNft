@@ -1,0 +1,6 @@
+1. forge build - собрать проект
+2. forge test -vvvv - тесты
+3. forge coverage - тестовое покрытие
+4. forge install https://github.com/OpenZeppelin/openzeppelin-contracts 
+5. forge remappings > remappings.txt - создать файл ремаппинга
+6. forge test --gas-report
